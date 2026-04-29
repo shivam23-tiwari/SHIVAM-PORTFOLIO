@@ -1,7 +1,6 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+  <img width="1200" height="400" alt="Professional Tech Banner" src="https://images.unsplash.com/photo-1614850523459-c2f4c699c52e?q=80&w=1200&h=400&auto=format&fit=crop" />
 </div>
-
 Shivam Portfolio 🚀
 
 Welcome to the repository for my personal portfolio! This application serves as a highly interactive, 3D-enabled digital resume showcasing my skills, projects, and journey in AI/ML engineering. 
